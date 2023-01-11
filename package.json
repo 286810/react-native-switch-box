@@ -1,5 +1,5 @@
 {
-  "name": "@dj5/react-native-switch-box",
+  "name": "react-native-switch-box",
   "version": "1.0.0",
   "description": "switch component for react-native",
   "main": "index.js",
