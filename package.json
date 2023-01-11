@@ -1,7 +1,7 @@
 {
-  "name": "react-native-switch",
-  "version": "1.5.1",
-  "description": "Customisable switch component for RN",
+  "name": "@dj5/react-native-switch-box",
+  "version": "1.0.0",
+  "description": "switch component for react-native",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -21,9 +21,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:shahen94/react-native-switch.git"
+    "url": "git@github.com:286810/react-native-switch-box.git"
   },
-  "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
+  "author": "dj5 <240675361@qq.com>",
   "peerDependencies": {
     "react-native": ">=0.29"
   },

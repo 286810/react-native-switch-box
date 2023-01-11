@@ -1,21 +1,21 @@
-# react-native-switch
-Customisable switch component for RN and React Native Web
+# react-native-switch-box
+Customisable switch component for RN and React Native Web, Fix for warning about useNativeDriver, refer [react-native-switch](https://github.com/shahen94/react-native-switch)
 
 ### Installation
 
 ```sh
-$ npm install --save react-native-switch
+$ npm install --save react-native-switch-box
 ```
 or
 
 ```sh
-yarn add react-native-switch
+yarn add react-native-switch-box
 ```
 
 ### Usage
 
 ```javascript
-import { Switch } from 'react-native-switch';
+import { Switch } from 'react-native-switch-box';
 
 export const App = () => (
   <Switch
@@ -47,8 +47,3 @@ export const App = () => (
 ### Switch
 ![switch](https://cloud.githubusercontent.com/assets/13334788/19770557/c1d935ee-9c70-11e6-931e-8812fbe62774.gif)
 
-
-##
-If this project was helpful to you, please <html>
- <a href="https://www.buymeacoffee.com/FnENSxi" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
- </html>
